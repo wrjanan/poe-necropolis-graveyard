@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/poe-necropolis-graveyard/static/css/main.7111735d.css",
-    "main.js": "/poe-necropolis-graveyard/static/js/main.53f23197.js",
+    "main.js": "/poe-necropolis-graveyard/static/js/main.63bbdf7a.js",
     "static/js/453.85ce2576.chunk.js": "/poe-necropolis-graveyard/static/js/453.85ce2576.chunk.js",
     "index.html": "/poe-necropolis-graveyard/index.html",
     "main.7111735d.css.map": "/poe-necropolis-graveyard/static/css/main.7111735d.css.map",
-    "main.53f23197.js.map": "/poe-necropolis-graveyard/static/js/main.53f23197.js.map",
+    "main.63bbdf7a.js.map": "/poe-necropolis-graveyard/static/js/main.63bbdf7a.js.map",
     "453.85ce2576.chunk.js.map": "/poe-necropolis-graveyard/static/js/453.85ce2576.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7111735d.css",
-    "static/js/main.53f23197.js"
+    "static/js/main.63bbdf7a.js"
   ]
 }
